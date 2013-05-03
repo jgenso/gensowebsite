@@ -1,6 +1,7 @@
 ---
 blog_root: /blog_posts
 site_title: My Blog
+template_url: https://github.com/telegr-am/template-green.git
 
 ---
 
